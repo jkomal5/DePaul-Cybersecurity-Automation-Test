@@ -1,2 +1,1 @@
-# DePaul-Cybersecurity-Automation-Test
-jkomal DePaul Cybersecurity Automation Test
+This is a sample readme
